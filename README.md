@@ -1,3 +1,7 @@
+# What this Weather App does?
+
+It provides you with current temperature for any city of any country
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
